@@ -1,0 +1,5 @@
+D:\cours\M1\fontana C#\TP2\TP2.exe
+D:\cours\M1\fontana C#\TP2\TP2.dll
+D:\cours\M1\fontana C#\TP2\TP2.deps.json
+D:\cours\M1\fontana C#\TP2\TP2.runtimeconfig.json
+D:\cours\M1\fontana C#\TP2\TP2.pdb
